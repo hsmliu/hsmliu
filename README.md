@@ -1,4 +1,4 @@
-### Hi there 👋
+### A developer in 1994, graduated from Zhejiang University of Technology, now engaged in Java development. 👋
 
 <!--
 **hsmliu/hsmliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
